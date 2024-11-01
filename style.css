@@ -1,0 +1,157 @@
+.wp-next-post-navi {
+	clear: both;
+	margin: 0 0 20px;
+}
+.wp-next-post-navi div{
+	display: block;
+	position: relative;
+	font-size: 20px;
+	color: #999;
+	min-height: 26px;
+}
+.wp-next-post-navi-pre{
+	float: left;
+	line-height: 16px;
+	width: 50%;
+}
+.wp-next-post-navi-next{
+	float: right;
+	text-align: right;
+	line-height: 16px;
+	width: 50%;
+}
+.wp-next-post-navi > div > a > span{
+	font-size: 26px;
+}
+.wp-next-post-navi div a:after {
+	position: absolute;
+	color: #ccc;
+	font-size: 56px;
+	margin-top: -11px;
+	height: 22px;
+	line-height: 22px;
+	top: 34%;
+}
+
+
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+    font-weight:700;
+    font-size: unset;
+    width: 99.5%;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+    font-weight:700;
+    font-size: unset;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+    font-weight:700;
+    font-size: unset;
+    width: 99.5%;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+    font-weight:700;
+    font-size: unset;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+
+.button1x {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+    font-weight:700;
+    font-size: unset;
+    width: 99.5%;
+}
+
+.button1x:hover {
+  background-color: #4CAF50;
+  color: white;
+    font-weight:700;
+    font-size: unset;
+}
+
+.button2x {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+    font-weight:700;
+    font-size: unset;
+    width: 99.5%;
+}
+
+.button2x:hover {
+  background-color: #008CBA;
+  color: white;
+    font-weight:700;
+    font-size: unset;
+}
+
+
+.relatedposts {
+font-size: 25px;
+font-weight:700;
+width: 100%;
+border-top: 6px solid orange;
+}
+
+
+.related-content {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.related-decor {
+  border-left: 6px solid orange;
+  padding:5px;
+  background-color: #F2F2F2;
+  width: 100%;
+  float: left;
+  margin-top:1px;
+  text-align: left;
+}
+
+.related-decor:hover {
+  border-left: 6px solid black;
+  padding:5px;
+  background-color: orange;
+  width: 100%;
+  float: left;
+  margin-top:1px;
+  text-align: left;
+  color: black;
+  font-weight: bold;
+}
