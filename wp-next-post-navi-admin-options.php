@@ -9,7 +9,6 @@ select{
 	min-width: 70px;
 }
 
-}
 input,
 textarea{
 	outline: none;
