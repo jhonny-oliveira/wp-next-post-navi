@@ -33,7 +33,7 @@ if(!class_exists('WPNextPostNavi')):
 			{
 
 
-if($options['shadow'] != "no"){			    
+if($options['shadow'] != "no"){
 			    
 				if($options['is_custom'] != "yes"){
 				    
@@ -128,7 +128,7 @@ if($options['comingsoon'] != "no"){
 
 
     
-}				
+}
 					
 			}else{
 				$pre_navigation = $pre_post->ID!=""?'<a href="'. get_permalink($pre_post->ID).'" title="'.$pre_post->post_title.'"><img src="'.$options['pre_img_link'].'" /></a>':'';

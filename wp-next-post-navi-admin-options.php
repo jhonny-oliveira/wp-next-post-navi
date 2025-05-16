@@ -227,7 +227,7 @@ input[type="submit"]{
 							(select 'Yes' to enable shadow when mouse is hovered)</label>
 						</fieldset>
 					</td>
-				</tr>				
+				</tr>
 				
 				
 					<tr valign="top">
